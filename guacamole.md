@@ -1,5 +1,5 @@
 # Ingredients
-- avocado - Price = 7
-- lime - Price = 3
-- salt - Price = 2
+- avocado	£7.00
+- lime		£3.00
+- salt		£2.00
 # Instructions
