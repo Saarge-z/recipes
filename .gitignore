@@ -1,4 +1,6 @@
+storage
 *.png
 !final.png
 receipts/*
 !receipts/data/
+!storage/s3/
